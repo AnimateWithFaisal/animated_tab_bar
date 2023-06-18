@@ -1,2 +1,3 @@
-# animated_tab_bar
-Animated Tab Bar
+# Animated Tab Bar
+
+https://github.com/FaisalEnimation
